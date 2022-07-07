@@ -1,0 +1,18 @@
+Nvidia_GPU,Nvidia_Avg_fps,Nvidia_price,AMD_GPU,AMD_Avg_fps,AMD_price
+GeForce GTX 1050 Ti(opens in new tab),19.8fps,"R3,096.00",Radeon RX 5500 XT 4GB(opens in new tab),33.5fps,"R5,999.00"
+GeForce GTX 1650(opens in new tab),26.6fps,"R3,567.00",Radeon RX 570 4GB(opens in new tab),28.3fps,"R5,631.00"
+GeForce GTX 1660 Super(opens in new tab),44.4fps,"R4,899.00",Radeon RX 580 8GB(opens in new tab),35.3fps,"R5,777.00"
+GeForce GTX 1660 Ti(opens in new tab),43.9fps,"R4,899.00",Radeon RX 6400(opens in new tab),23.7fps,"R3,979.00"
+GeForce GTX 1660(opens in new tab),39.9fps,"R6,578.00",Radeon RX 6500 XT(opens in new tab),30.4fps,"R3,999.00"
+GeForce RTX 2060 Super(opens in new tab),65.1fps,"R7,768.00",Radeon RX 6600 XT(opens in new tab),78.1fps,"R7,199.00"
+GeForce RTX 2060(opens in new tab),55.2fps,"R5,799.00",Radeon RX 6600(opens in new tab),66.7fps,"R6,199.00"
+GeForce RTX 3050(opens in new tab),51.4fps,"R5,399.00",Radeon RX 6650 XT(opens in new tab),79.9fps,"R7,499.00"
+GeForce RTX 3060 Ti(opens in new tab),91.5fps,"R9,299.00",Radeon RX 6700 XT(opens in new tab),95.8fps,"R13,396.00"
+GeForce RTX 3060(opens in new tab),70.2fps,"R6,999.00",Radeon RX 6750 XT(opens in new tab),101.2fps,"R9,999.00"
+GeForce RTX 3070 Ti(opens in new tab),104.1fps,"R9,499.00",Radeon RX 6800 XT(opens in new tab),123.5fps,"R13,499.00"
+GeForce RTX 3070(opens in new tab),99.8fps,"R10,499.00",Radeon RX 6800(opens in new tab),110.7fps,"R14,999"
+GeForce RTX 3080 12GB(opens in new tab),124.5fps,"R14,799.00",Radeon RX 6900 XT(opens in new tab),129.7fps,"R23,999"
+GeForce RTX 3080 Ti(opens in new tab),123.4fps,"R22,999.00",,,
+GeForce RTX 3080(opens in new tab),116.3fps,"R14,799.00",,,
+GeForce RTX 3090 Ti,132.4fps,"R59,999",,,
+GeForce RTX 3090(opens in new tab),126.6fps,"R36,189",,,
